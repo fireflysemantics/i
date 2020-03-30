@@ -1,0 +1,25 @@
+{
+  "name": "i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireflysemantics/i.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireflysemantics/i/issues"
+  },
+  "homepage": "https://github.com/fireflysemantics/i#readme",
+  "dependencies": {
+    "delete": "^1.1.0",
+    "globby": "^11.0.0",
+    "jimp": "^0.9.8"
+  }
+}
