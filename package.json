@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "b": "node index.js",
+    "p": "node index.js && git add . && git commit -m 'Content Update' && git push"
   },
   "repository": {
     "type": "git",
